@@ -21,6 +21,3 @@ I am open to collaborating on **web development projects**, especially those usi
 
 ## ⚡ Fun Fact  
 I love exploring new web technologies and constantly improving my development skills! 🚀  
-
----
-✨ *This README appears on my GitHub profile. Click the Preview link to check it out!* ✨
